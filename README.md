@@ -37,3 +37,6 @@ The 4 output results were as follows:
 </p>
 
 The  amplitude of the temperate was converging to zero with increasing depth, which is an expected result.
+
+# Conclusion
+To sum up, the heat equation is an undeniable asset in analyzing how heat diffuses in various applications. It can be derived with the help of differential equations, however the practical calculation can be lengthy, and the assistance of a computer software to perform the heat simulation is unquestionably needed. Similarly to any other engineering concept, heat tends to find convergence, and it usually does once it starts repeating cycles, such as the 4 yearly seasons.
